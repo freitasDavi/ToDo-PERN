@@ -7,7 +7,7 @@
     "typescript": "^4.0.3"
   },
   "scripts": {
-    "dev": "ts-node-dev --transpile-only --ignore-watch node_modules server.ts"
+    "dev": "ts-node-dev --transpile-only --ignore-watch node_modules index.ts"
   },
   "devDependencies": {
     "@types/cors": "^2.8.8",
